@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Home</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/Animated-Type-Heading.css">
@@ -13,8 +13,8 @@
     <link rel="stylesheet" href="assets/css/Perfect-navigation-bar.css">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-
-<body>				<div class="caption v-middle text-center">
+<body>
+<div class="caption v-middle text-center">
 					<h1 class="cd-headline clip">
                     <a class="heading1" href="home.php">
 			            <span class="blc">Student | </span>
@@ -38,31 +38,6 @@
             </div>
         </div>
     </nav>
-    <section class="features-boxed">
-        <div class="container">
-            <div class="intro">
-                <h2 class="text-center">Select The Year</h2>
-                <p class="text-center"></p>
-            </div>
-            <div class="row justify-content-center features">
-                <div class="col-sm-6 col-md-5 col-lg-4 item"><a href="FE1.php">
-<div class="box"><i class="fa fa-user icon"></i>
-    <h3 class="name">First Year</h3>
-</div>
-</a></div>
-
-                <div class="col-sm-6 col-md-5 col-lg-4 item"><a href="SE1.php">
-                    <div class="box"><i class="fa fa-user icon"></i>
-                        <h3 class="name">Second Year</h3>
-                    </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section></section>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/Animated-Type-Heading.js"></script>
+    
 </body>
-
 </html>
