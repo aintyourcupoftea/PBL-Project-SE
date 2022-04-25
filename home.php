@@ -30,7 +30,7 @@
                 <ul class="navbar-nav">
                     <li class="nav-item"></li>
                     <li class="nav-item"><a class="nav-link" href="registrationForm.php">Register New Student</a></li>
-                    <li class="nav-item"><a class="nav-link" href="updateDetails.html">Update Details</a></li>
+                    <li class="nav-item"><a class="nav-link" href="updateDetails.php">Update Details</a></li>
                 </ul>
                 <form class="me-auto search-form" target="_self">
                     <div class="d-flex align-items-center"><label class="form-label d-flex mb-0" for="search-field"><i class="fa fa-search"></i></label><input class="form-control search-field" type="search" id="search-field" name="search"></div>
